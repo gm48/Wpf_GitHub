@@ -20,6 +20,8 @@ namespace Wpf_GitHub
     /// </summary>
     public partial class Page1 : Page
     {
+        public string Wpf_GitHub = "Wpf_GitHub";
+
         public Page1()
         {
         //  gm48   here  is g
