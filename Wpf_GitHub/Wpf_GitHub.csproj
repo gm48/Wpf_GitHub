@@ -94,7 +94,6 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <None Include="Properties\app.manifest" />
-    <None Include="Wpf_GitHub_TemporaryKey.pfx" />
   </ItemGroup>
   <PropertyGroup>
     <StartArguments />
