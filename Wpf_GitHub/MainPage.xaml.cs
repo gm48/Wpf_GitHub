@@ -25,6 +25,7 @@ namespace Wpf_GitHub
         //  gm48   here  is g
             InitializeComponent();
             string gm = "Gennady Test";
+            string onemoreTime = "OneMoreTime";
         }
     }
 }
