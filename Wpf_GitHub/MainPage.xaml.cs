@@ -26,6 +26,8 @@ namespace Wpf_GitHub
             InitializeComponent();
             string gm = "Gennady Test";
             string two = "Two as string";
+            
+            string dude = "Dude added it !"!;
         }
     }
 }
