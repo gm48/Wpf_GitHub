@@ -21,7 +21,7 @@ namespace Wpf_GitHub
     public partial class Page1 : Page
     {
         public string Wpf_GitHub = "Wpf_GitHub";
-
+        public string readyForMerge = "Ready for Merge !";
         public Page1()
         {
         //  gm48   here  is g
