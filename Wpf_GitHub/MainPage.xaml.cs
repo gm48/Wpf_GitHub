@@ -24,6 +24,9 @@ namespace Wpf_GitHub
     }
     public partial class Page1 : Page
     {
+        public string IwouldLikeTo = "I would llike to see my changes before push !!!";
+
+
         public string readyForMerge = "Ready for Merge !";
 
         public string newWpf_GitHub = "new Wpf_GitHub ( origiin )";
