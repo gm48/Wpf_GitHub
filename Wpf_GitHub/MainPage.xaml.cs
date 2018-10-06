@@ -22,6 +22,7 @@ namespace Wpf_GitHub
     {
         public Page1()
         {
+        //  gm48   here  is g
             InitializeComponent();
         }
     }
