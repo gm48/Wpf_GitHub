@@ -12,20 +12,24 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+//  it's NEW
+// and I will marge into master and see how i can modify if need it
+//  this line is deleted   public string Wpf_GitHub = "Wpf_GitHub";
 namespace Wpf_GitHub
 {
-    /// <summary>
-    /// Interaction logic for Page1.xaml
-    /// </summary>
+    public class NEW_NEW {
+        public NEW_NEW() {
+            string _nothing = "nothig  just a test NEW Branch merge";
+        }
+    }
     public partial class Page1 : Page
     {
-        public string Wpf_GitHub = "Wpf_GitHub";
-<<<<<<< .mine
+        
+
         public string readyForMerge = "Ready for Merge !";
-=======
+
         public string newWpf_GitHub = "new Wpf_GitHub ( origiin )";
->>>>>>> .theirs
+
         public Page1()
         {
         //  gm48   here  is g
