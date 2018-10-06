@@ -23,7 +23,7 @@ namespace Wpf_GitHub
         public ThisOneNew()
         {
         //  gm48   here  is g
-            InitializeComponent();
+
             string gm = "Gennady Test";
             string two = "Two as string";
             
