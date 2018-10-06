@@ -25,7 +25,7 @@ namespace Wpf_GitHub
     public partial class Page1 : Page
     {
         public string IwouldLikeTo = "I would llike to see my changes before push !!!";
-
+        public string NEWNEWNEWNEWIwouldLikeTo = "I would llike to see my changes before push !!!";
 
         public string readyForMerge = "Ready for Merge !";
 
