@@ -21,11 +21,10 @@ namespace Wpf_GitHub
     public partial class Page1 : Page
     {
         public string Wpf_GitHub = "Wpf_GitHub";
-<<<<<<< HEAD
         public string readyForMerge = "Ready for Merge !";
-=======
-        public string newWpf_GitHub = "new Wpf_GitHub ( origiin )";
->>>>>>> 41d8aded21ce3695d2632a666b972c065545408c
+
+        public string newBranch = "this is a new branch";
+
         public Page1()
         {
         //  gm48   here  is g
@@ -33,7 +32,7 @@ namespace Wpf_GitHub
             string gm = "Gennady Test";
             string two = "Two as string";
             
-            string dude = "Dude added it !"!;
+            string dude = "Dude added it !";
         }
     }
 }
