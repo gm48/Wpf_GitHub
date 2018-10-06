@@ -22,6 +22,11 @@ namespace Wpf_GitHub
             string _nothing = "nothig  just a test NEW Branch merge";
         }
     }
+
+    public class UCcanPullAnytimeUlikeAndLostAllChanges {
+        string todo = "sdfgs";
+    }
+
     public partial class Page1 : Page
     {
         public string IwouldLikeTo = "I would llike to see my changes before push !!!";
