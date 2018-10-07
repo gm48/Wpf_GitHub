@@ -12,13 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+
+// added project file  (  remove old one 
+
 //  it's NEW
 // and I will marge into master and see how i can modify if need it
 //  this line is deleted   public string Wpf_GitHub = "Wpf_GitHub";
 namespace Wpf_GitHub
 {
-    public class NEW_NEW {
-        public NEW_NEW() {
+    public class New_New {
+        public New_New() {
             string _nothing = "nothig  just a test NEW Branch merge";
         }
     }
