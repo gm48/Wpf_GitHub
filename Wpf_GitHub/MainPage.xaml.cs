@@ -13,36 +13,15 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 //  merge to master
-// added project file  (  remove old one 
-
-//  it's NEW
-// and I will marge into master and see how i can modify if need it
-//  this line is deleted   public string Wpf_GitHub = "Wpf_GitHub";
 namespace Wpf_GitHub
 {
-    public class New_New {
-        public New_New() {
-            string _nothing = "nothig  just a test NEW Branch merge";
-            string AddOneMore = "";
-        }
-    }
-
-    public class UCcanPullAnytimeUlikeAndLostAllChanges {
-        string todo = "sdfgs";
-    }
-
+    /// <summary>
+    /// Interaction logic for Page1.xaml
+    /// </summary>
     public partial class Page1 : Page
     {
-        public string IwouldLikeTo = "I would llike to see my changes before push !!!";
-        public string NEWNEWNEWNEWIwouldLikeTo = "I would llike to see my changes before push !!!";
-
-        public string readyForMerge = "Ready for Merge !";
-
-        public string newWpf_GitHub = "new Wpf_GitHub ( origiin )";
         public string Wpf_GitHub = "Wpf_GitHub";
-
-        public string newBranch = "this is a new branch";
-
+        public string newWpf_GitHub = "new Wpf_GitHub ( origiin )";
         public Page1()
         {
         //  merge to master
@@ -50,7 +29,7 @@ namespace Wpf_GitHub
             string gm = "Gennady Test";
             string two = "Two as string";
             
-            string dude = "Dude added it !";
+            string dude = "Dude added it !"!;
         }
     }
 }
