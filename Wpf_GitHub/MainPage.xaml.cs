@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+//  merge to master
 namespace Wpf_GitHub
 {
     /// <summary>
@@ -24,7 +24,7 @@ namespace Wpf_GitHub
         public string newWpf_GitHub = "new Wpf_GitHub ( origiin )";
         public Page1()
         {
-        //  gm48   here  is g
+        //  merge to master
             InitializeComponent();
             string gm = "Gennady Test";
             string two = "Two as string";
