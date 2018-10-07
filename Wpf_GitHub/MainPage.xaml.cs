@@ -15,6 +15,19 @@ using System.Windows.Shapes;
 //  merge to master
 namespace Wpf_GitHub
 {
+
+
+
+    public class OneMore {
+        public OneMore() { }
+
+    }
+
+
+
+
+
+
     /// <summary>
     /// Interaction logic for Page1.xaml
     /// </summary>
