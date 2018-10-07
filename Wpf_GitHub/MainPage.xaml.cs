@@ -23,6 +23,7 @@ namespace Wpf_GitHub
     public class New_New {
         public New_New() {
             string _nothing = "nothig  just a test NEW Branch merge";
+            string AddOneMore = "";
         }
     }
 
